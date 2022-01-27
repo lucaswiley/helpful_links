@@ -6,3 +6,4 @@ I wanted a place to store helpful and shareable resources from throughout my car
 - [Git Aliases](https://jonsuh.com/blog/git-command-line-shortcuts/)
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Engineering Project Design Doc Template](https://docs.google.com/document/d/1YiyFJ-52eYSEIrheIMlyWhbPhk1D4wQ4Vo2fnSIAgcQ/edit#heading=h.7o72ngs5yxxk)
+- [Holistics.io Guidebook for Analytics](https://cdn.holistics.io/guidebook/the-analytics-stack-guidebook.pdf)
