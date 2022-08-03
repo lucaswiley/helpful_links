@@ -1,4 +1,8 @@
-Boilerplate file for `~/.zshrc`
+
+# ----------------------
+# Boilerplate file for `~/.zshrc`
+# ----------------------
+
 
 # ----------------------
 # Python Aliases
