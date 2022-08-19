@@ -9,3 +9,6 @@ I wanted a place to store helpful and shareable links from throughout my career
 - [Holistics.io Guidebook for Analytics](https://cdn.holistics.io/guidebook/the-analytics-stack-guidebook.pdf)
 - [Krisp - Background Noise Cancellation for Zoom Meetings](https://krisp.ai/)
 - [Hex - Open source Python + SQL visualizations](https://hex.tech/)
+
+
+{% hint style="danger" %} For security reasons, this is a test. {% endhint %}
