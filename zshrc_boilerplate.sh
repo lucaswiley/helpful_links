@@ -3,6 +3,13 @@
 # Boilerplate file for `~/.zshrc`
 # ----------------------
 
+# ----------------------
+# Venv Aliases
+# ----------------------
+alias dbt-env="source ~/envs/dbt-env/bin/activate"
+alias scraper-env="source ~/envs/scraper-env/bin/activate"
+alias airflow-env="source ~/envs/airflow-env/bin/activate"
+alias webapp-env="source ~/envs/webapp-env/bin/activate"
 
 # ----------------------
 # Python Aliases
@@ -88,3 +95,10 @@ alias gsts='git stash save'
 # ----------------------
 # Git log find by commit message
 function glf() { git log --all --grep="$1"; }
+
+# ----------------------
+# nvm
+# ----------------------
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
